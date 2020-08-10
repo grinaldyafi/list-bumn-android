@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#1B2C59</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimaryDarkSplash">#FFFFFF</color>
+    <color name="colorAccentSplash">#D81B60</color>
+    <color name="color1">#FFFFFF</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#FFFFFF</color>
+    <color name="black">#000</color>
+
+
+
+</resources>

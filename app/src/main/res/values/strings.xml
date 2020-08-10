@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Daftar BUMN</string>
+    <string name="tagline" />
+    <string name="name_bumn">Nama bumn</string>
+    <string name="content_main">10 BUMN Indonesia</string>
+    <string name="content_est">Direktur bidang bumn</string>
+    <string name="overview">overview</string>
+    <string name="bumn_identity">Identitas bumn</string>
+    <string name="bumn_about">Detail</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">direktur \nbidang bumn </string>
+    <string name="name_me">Badan Usaha Milik Negara</string>
+    <string name="email_me">Badan usaha milik negara (BUMN)—dahulu dikenal sebagai perusahaan negara (PN)—adalah perusahaan yang dimiliki baik sepenuhnya, sebagian besar, maupun sebagian kecil oleh pemerintah dan pemerintah memberi kontrol terhadapnya.[1] Yang membedakan BUMN dengan badan lain milik pemerintah adalah status badan hukum dan sifat operasionalnya (seperti aktivitas dan tujuan komersialnya).  </string>
+    <string name="listname">Profile</string>
+    <string name="name_me2">Grinaldy Yafi\' Rasyad </string>
+    <string name="email_me2">grinaldy.yafir@gmail.com \n ig,twitter,line: grinaldyafi</string>
+    <string name="listname_about">About</string>
+    <string name="copyright">Copyright©grinaldyafi 2020</string>
+</resources>
+
+
+
+
+
